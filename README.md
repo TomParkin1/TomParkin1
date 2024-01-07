@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tom
-- 👀 I’m interested in software development and artificial intelligence
-- 🌱 I’m currently learning JavaScript, Java, and Ruby
+- 👀 I’m interested in AI and Software Development
+- 🌱 I’m currently learning JavaScript, Java, and Python
 - 📫 Reach me at thomas_parkin@outlook.com
 
 <!---
